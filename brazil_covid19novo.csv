@@ -1,0 +1,1081 @@
+date,region,state,cases,deaths
+4/1/2020,Centro-Oeste,Distrito Federal,355,3
+4/1/2020,Centro-Oeste,Goiás,71,1
+4/1/2020,Centro-Oeste,Mato Grosso,27,0
+4/1/2020,Centro-Oeste,Mato Grosso do Sul,51,1
+4/1/2020,Nordeste,Alagoas,18,1
+4/1/2020,Nordeste,Bahia,246,2
+4/1/2020,Nordeste,Ceará,444,8
+4/1/2020,Nordeste,Maranhão,52,1
+4/1/2020,Nordeste,Paraíba,20,1
+4/1/2020,Nordeste,Pernambuco,95,8
+4/1/2020,Nordeste,Piauí,18,4
+4/1/2020,Nordeste,Rio Grande do Norte,92,2
+4/1/2020,Nordeste,Sergipe,20,0
+4/1/2020,Norte,Acre,43,0
+4/1/2020,Norte,Amapá,11,0
+4/1/2020,Norte,Amazonas,200,3
+4/1/2020,Norte,Pará,40,1
+4/1/2020,Norte,Rondônia,9,1
+4/1/2020,Norte,Roraima,22,0
+4/1/2020,Norte,Tocantins,12,0
+4/1/2020,Sudeste,Espírito Santo,96,0
+4/1/2020,Sudeste,Minas Gerais,314,3
+4/1/2020,Sudeste,Rio de Janeiro,832,28
+4/1/2020,Sudeste,São Paulo,2981,164
+4/1/2020,Sul,Paraná,224,3
+4/1/2020,Sul,Rio Grande do Sul,306,4
+4/1/2020,Sul,Santa Catarina,235,2
+4/2/2020,Centro-Oeste,Distrito Federal,370,4
+4/2/2020,Centro-Oeste,Goiás,73,1
+4/2/2020,Centro-Oeste,Mato Grosso,36,0
+4/2/2020,Centro-Oeste,Mato Grosso do Sul,53,1
+4/2/2020,Nordeste,Alagoas,18,1
+4/2/2020,Nordeste,Bahia,267,3
+4/2/2020,Nordeste,Ceará,550,20
+4/2/2020,Nordeste,Maranhão,71,1
+4/2/2020,Nordeste,Paraíba,21,1
+4/2/2020,Nordeste,Pernambuco,106,9
+4/2/2020,Nordeste,Piauí,19,4
+4/2/2020,Nordeste,Rio Grande do Norte,105,2
+4/2/2020,Nordeste,Sergipe,23,2
+4/2/2020,Norte,Acre,43,0
+4/2/2020,Norte,Amapá,11,0
+4/2/2020,Norte,Amazonas,229,3
+4/2/2020,Norte,Pará,46,1
+4/2/2020,Norte,Rondônia,10,1
+4/2/2020,Norte,Roraima,26,0
+4/2/2020,Norte,Tocantins,12,0
+4/2/2020,Sudeste,Espírito Santo,120,1
+4/2/2020,Sudeste,Minas Gerais,370,4
+4/2/2020,Sudeste,Rio de Janeiro,992,41
+4/2/2020,Sudeste,São Paulo,3506,188
+4/2/2020,Sul,Paraná,252,4
+4/2/2020,Sul,Rio Grande do Sul,334,5
+4/2/2020,Sul,Santa Catarina,247,2
+4/3/2020,Centro-Oeste,Distrito Federal,402,5
+4/3/2020,Centro-Oeste,Goiás,88,2
+4/3/2020,Centro-Oeste,Mato Grosso,44,1
+4/3/2020,Centro-Oeste,Mato Grosso do Sul,60,1
+4/3/2020,Nordeste,Alagoas,22,2
+4/3/2020,Nordeste,Bahia,282,5
+4/3/2020,Nordeste,Ceará,627,22
+4/3/2020,Nordeste,Maranhão,81,1
+4/3/2020,Nordeste,Paraíba,29,1
+4/3/2020,Nordeste,Pernambuco,136,10
+4/3/2020,Nordeste,Piauí,21,4
+4/3/2020,Nordeste,Rio Grande do Norte,176,4
+4/3/2020,Nordeste,Sergipe,25,2
+4/3/2020,Norte,Acre,46,0
+4/3/2020,Norte,Amapá,19,0
+4/3/2020,Norte,Amazonas,260,7
+4/3/2020,Norte,Pará,50,1
+4/3/2020,Norte,Rondônia,10,1
+4/3/2020,Norte,Roraima,30,0
+4/3/2020,Norte,Tocantins,12,0
+4/3/2020,Sudeste,Espírito Santo,139,4
+4/3/2020,Sudeste,Minas Gerais,397,6
+4/3/2020,Sudeste,Rio de Janeiro,1074,47
+4/3/2020,Sudeste,São Paulo,4048,219
+4/3/2020,Sul,Paraná,301,4
+4/3/2020,Sul,Rio Grande do Sul,396,5
+4/3/2020,Sul,Santa Catarina,281,5
+4/4/2020,Centro-Oeste,Distrito Federal,454,7
+4/4/2020,Centro-Oeste,Goiás,103,2
+4/4/2020,Centro-Oeste,Mato Grosso,56,1
+4/4/2020,Centro-Oeste,Mato Grosso do Sul,62,1
+4/4/2020,Nordeste,Alagoas,23,2
+4/4/2020,Nordeste,Bahia,332,7
+4/4/2020,Nordeste,Ceará,730,22
+4/4/2020,Nordeste,Maranhão,88,1
+4/4/2020,Nordeste,Paraíba,32,2
+4/4/2020,Nordeste,Pernambuco,176,14
+4/4/2020,Nordeste,Piauí,22,4
+4/4/2020,Nordeste,Rio Grande do Norte,212,5
+4/4/2020,Nordeste,Sergipe,27,2
+4/4/2020,Norte,Acre,46,0
+4/4/2020,Norte,Amapá,28,1
+4/4/2020,Norte,Amazonas,311,12
+4/4/2020,Norte,Pará,80,1
+4/4/2020,Norte,Rondônia,11,1
+4/4/2020,Norte,Roraima,37,1
+4/4/2020,Norte,Tocantins,14,0
+4/4/2020,Sudeste,Espírito Santo,153,5
+4/4/2020,Sudeste,Minas Gerais,430,6
+4/4/2020,Sudeste,Rio de Janeiro,1246,58
+4/4/2020,Sudeste,São Paulo,4466,260
+4/4/2020,Sul,Paraná,395,6
+4/4/2020,Sul,Rio Grande do Sul,410,6
+4/4/2020,Sul,Santa Catarina,334,5
+4/5/2020,Centro-Oeste,Distrito Federal,468,7
+4/5/2020,Centro-Oeste,Goiás,115,3
+4/5/2020,Centro-Oeste,Mato Grosso,60,1
+4/5/2020,Centro-Oeste,Mato Grosso do Sul,65,1
+4/5/2020,Nordeste,Alagoas,28,2
+4/5/2020,Nordeste,Bahia,401,9
+4/5/2020,Nordeste,Ceará,823,26
+4/5/2020,Nordeste,Maranhão,96,2
+4/5/2020,Nordeste,Paraíba,34,4
+4/5/2020,Nordeste,Pernambuco,201,21
+4/5/2020,Nordeste,Piauí,23,4
+4/5/2020,Nordeste,Rio Grande do Norte,242,7
+4/5/2020,Nordeste,Sergipe,32,3
+4/5/2020,Norte,Acre,48,0
+4/5/2020,Norte,Amapá,29,2
+4/5/2020,Norte,Amazonas,417,14
+4/5/2020,Norte,Pará,86,1
+4/5/2020,Norte,Rondônia,12,1
+4/5/2020,Norte,Roraima,42,1
+4/5/2020,Norte,Tocantins,17,0
+4/5/2020,Sudeste,Espírito Santo,166,6
+4/5/2020,Sudeste,Minas Gerais,498,6
+4/5/2020,Sudeste,Rio de Janeiro,1394,64
+4/5/2020,Sudeste,São Paulo,4620,275
+4/5/2020,Sul,Paraná,438,9
+4/5/2020,Sul,Rio Grande do Sul,418,7
+4/5/2020,Sul,Santa Catarina,357,10
+4/6/2020,Centro-Oeste,Distrito Federal,473,10
+4/6/2020,Centro-Oeste,Goiás,119,5
+4/6/2020,Centro-Oeste,Mato Grosso,76,1
+4/6/2020,Centro-Oeste,Mato Grosso do Sul,66,1
+4/6/2020,Nordeste,Alagoas,31,2
+4/6/2020,Nordeste,Bahia,431,10
+4/6/2020,Nordeste,Ceará,1013,29
+4/6/2020,Nordeste,Maranhão,133,2
+4/6/2020,Nordeste,Paraíba,35,4
+4/6/2020,Nordeste,Pernambuco,223,30
+4/6/2020,Nordeste,Piauí,23,4
+4/6/2020,Nordeste,Rio Grande do Norte,246,7
+4/6/2020,Nordeste,Sergipe,32,4
+4/6/2020,Norte,Acre,50,0
+4/6/2020,Norte,Amapá,34,2
+4/6/2020,Norte,Amazonas,532,19
+4/6/2020,Norte,Pará,102,3
+4/6/2020,Norte,Rondônia,14,1
+4/6/2020,Norte,Roraima,42,1
+4/6/2020,Norte,Tocantins,17,0
+4/6/2020,Sudeste,Espírito Santo,194,6
+4/6/2020,Sudeste,Minas Gerais,525,9
+4/6/2020,Sudeste,Rio de Janeiro,1461,71
+4/6/2020,Sudeste,São Paulo,4866,304
+4/6/2020,Sul,Paraná,458,11
+4/6/2020,Sul,Rio Grande do Sul,481,7
+4/6/2020,Sul,Santa Catarina,379,10
+4/7/2020,Centro-Oeste,Distrito Federal,492,12
+4/7/2020,Centro-Oeste,Goiás,133,5
+4/7/2020,Centro-Oeste,Mato Grosso,78,1
+4/7/2020,Centro-Oeste,Mato Grosso do Sul,80,2
+4/7/2020,Nordeste,Alagoas,32,2
+4/7/2020,Nordeste,Bahia,456,12
+4/7/2020,Nordeste,Ceará,1051,31
+4/7/2020,Nordeste,Maranhão,172,4
+4/7/2020,Nordeste,Paraíba,36,4
+4/7/2020,Nordeste,Pernambuco,352,34
+4/7/2020,Nordeste,Piauí,28,4
+4/7/2020,Nordeste,Rio Grande do Norte,254,8
+4/7/2020,Nordeste,Sergipe,36,4
+4/7/2020,Norte,Acre,50,1
+4/7/2020,Norte,Amapá,48,2
+4/7/2020,Norte,Amazonas,636,23
+4/7/2020,Norte,Pará,138,5
+4/7/2020,Norte,Rondônia,18,1
+4/7/2020,Norte,Roraima,42,1
+4/7/2020,Norte,Tocantins,19,0
+4/7/2020,Sudeste,Espírito Santo,209,6
+4/7/2020,Sudeste,Minas Gerais,559,11
+4/7/2020,Sudeste,Rio de Janeiro,1688,89
+4/7/2020,Sudeste,São Paulo,5682,371
+4/7/2020,Sul,Paraná,503,15
+4/7/2020,Sul,Rio Grande do Sul,508,8
+4/7/2020,Sul,Santa Catarina,417,11
+4/8/2020,Centro-Oeste,Distrito Federal,509,12
+4/8/2020,Centro-Oeste,Goiás,158,7
+4/8/2020,Centro-Oeste,Mato Grosso,90,1
+4/8/2020,Centro-Oeste,Mato Grosso do Sul,85,2
+4/8/2020,Nordeste,Alagoas,37,2
+4/8/2020,Nordeste,Bahia,497,15
+4/8/2020,Nordeste,Ceará,1291,43
+4/8/2020,Nordeste,Maranhão,230,11
+4/8/2020,Nordeste,Paraíba,41,4
+4/8/2020,Nordeste,Pernambuco,401,46
+4/8/2020,Nordeste,Piauí,31,5
+4/8/2020,Nordeste,Rio Grande do Norte,261,11
+4/8/2020,Nordeste,Sergipe,36,4
+4/8/2020,Norte,Acre,54,2
+4/8/2020,Norte,Amapá,107,2
+4/8/2020,Norte,Amazonas,804,30
+4/8/2020,Norte,Pará,167,6
+4/8/2020,Norte,Rondônia,18,1
+4/8/2020,Norte,Roraima,49,1
+4/8/2020,Norte,Tocantins,23,0
+4/8/2020,Sudeste,Espírito Santo,227,6
+4/8/2020,Sudeste,Minas Gerais,614,14
+4/8/2020,Sudeste,Rio de Janeiro,1938,106
+4/8/2020,Sudeste,São Paulo,6708,428
+4/8/2020,Sul,Paraná,539,17
+4/8/2020,Sul,Rio Grande do Sul,555,9
+4/8/2020,Sul,Santa Catarina,457,15
+4/9/2020,Centro-Oeste,Distrito Federal,527,13
+4/9/2020,Centro-Oeste,Goiás,179,7
+4/9/2020,Centro-Oeste,Mato Grosso,108,2
+4/9/2020,Centro-Oeste,Mato Grosso do Sul,89,2
+4/9/2020,Nordeste,Alagoas,37,3
+4/9/2020,Nordeste,Bahia,559,19
+4/9/2020,Nordeste,Ceará,1425,55
+4/9/2020,Nordeste,Maranhão,273,12
+4/9/2020,Nordeste,Paraíba,55,7
+4/9/2020,Nordeste,Pernambuco,555,56
+4/9/2020,Nordeste,Piauí,38,6
+4/9/2020,Nordeste,Rio Grande do Norte,261,11
+4/9/2020,Nordeste,Sergipe,39,4
+4/9/2020,Norte,Acre,62,2
+4/9/2020,Norte,Amapá,128,2
+4/9/2020,Norte,Amazonas,899,40
+4/9/2020,Norte,Pará,168,7
+4/9/2020,Norte,Rondônia,28,2
+4/9/2020,Norte,Roraima,52,1
+4/9/2020,Norte,Tocantins,23,0
+4/9/2020,Sudeste,Espírito Santo,273,6
+4/9/2020,Sudeste,Minas Gerais,655,15
+4/9/2020,Sudeste,Rio de Janeiro,2216,122
+4/9/2020,Sudeste,São Paulo,7480,496
+4/9/2020,Sul,Paraná,609,22
+4/9/2020,Sul,Rio Grande do Sul,618,12
+4/9/2020,Sul,Santa Catarina,501,17
+4/10/2020,Centro-Oeste,Distrito Federal,555,14
+4/10/2020,Centro-Oeste,Goiás,191,8
+4/10/2020,Centro-Oeste,Mato Grosso,112,2
+4/10/2020,Centro-Oeste,Mato Grosso do Sul,97,2
+4/10/2020,Nordeste,Alagoas,45,3
+4/10/2020,Nordeste,Bahia,604,19
+4/10/2020,Nordeste,Ceará,1478,58
+4/10/2020,Nordeste,Maranhão,293,16
+4/10/2020,Nordeste,Paraíba,79,11
+4/10/2020,Nordeste,Pernambuco,684,65
+4/10/2020,Nordeste,Piauí,40,7
+4/10/2020,Nordeste,Rio Grande do Norte,263,11
+4/10/2020,Nordeste,Sergipe,42,4
+4/10/2020,Norte,Acre,70,2
+4/10/2020,Norte,Amapá,166,2
+4/10/2020,Norte,Amazonas,981,50
+4/10/2020,Norte,Pará,170,9
+4/10/2020,Norte,Rondônia,32,2
+4/10/2020,Norte,Roraima,63,3
+4/10/2020,Norte,Tocantins,23,0
+4/10/2020,Sudeste,Espírito Santo,300,7
+4/10/2020,Sudeste,Minas Gerais,698,17
+4/10/2020,Sudeste,Rio de Janeiro,2464,147
+4/10/2020,Sudeste,São Paulo,8216,540
+4/10/2020,Sul,Paraná,643,25
+4/10/2020,Sul,Rio Grande do Sul,636,14
+4/10/2020,Sul,Santa Catarina,693,18
+4/11/2020,Centro-Oeste,Distrito Federal,579,14
+4/11/2020,Centro-Oeste,Goiás,209,10
+4/11/2020,Centro-Oeste,Mato Grosso,121,3
+4/11/2020,Centro-Oeste,Mato Grosso do Sul,100,2
+4/11/2020,Nordeste,Alagoas,48,3
+4/11/2020,Nordeste,Bahia,635,21
+4/11/2020,Nordeste,Ceará,1582,67
+4/11/2020,Nordeste,Maranhão,344,21
+4/11/2020,Nordeste,Paraíba,85,11
+4/11/2020,Nordeste,Pernambuco,816,72
+4/11/2020,Nordeste,Piauí,41,7
+4/11/2020,Nordeste,Rio Grande do Norte,289,13
+4/11/2020,Nordeste,Sergipe,42,4
+4/11/2020,Norte,Acre,72,2
+4/11/2020,Norte,Amapá,193,3
+4/11/2020,Norte,Amazonas,1050,53
+4/11/2020,Norte,Pará,217,10
+4/11/2020,Norte,Rondônia,33,2
+4/11/2020,Norte,Roraima,75,3
+4/11/2020,Norte,Tocantins,23,0
+4/11/2020,Sudeste,Espírito Santo,349,9
+4/11/2020,Sudeste,Minas Gerais,750,17
+4/11/2020,Sudeste,Rio de Janeiro,2607,155
+4/11/2020,Sudeste,São Paulo,8419,560
+4/11/2020,Sul,Paraná,676,26
+4/11/2020,Sul,Rio Grande do Sul,640,15
+4/11/2020,Sul,Santa Catarina,732,21
+4/12/2020,Centro-Oeste,Distrito Federal,614,14
+4/12/2020,Centro-Oeste,Goiás,229,14
+4/12/2020,Centro-Oeste,Mato Grosso,123,3
+4/12/2020,Centro-Oeste,Mato Grosso do Sul,101,2
+4/12/2020,Nordeste,Alagoas,48,3
+4/12/2020,Nordeste,Bahia,673,21
+4/12/2020,Nordeste,Ceará,1676,74
+4/12/2020,Nordeste,Maranhão,398,24
+4/12/2020,Nordeste,Paraíba,101,13
+4/12/2020,Nordeste,Pernambuco,960,85
+4/12/2020,Nordeste,Piauí,44,7
+4/12/2020,Nordeste,Rio Grande do Norte,302,15
+4/12/2020,Nordeste,Sergipe,44,4
+4/12/2020,Norte,Acre,77,2
+4/12/2020,Norte,Amapá,230,5
+4/12/2020,Norte,Amazonas,1206,62
+4/12/2020,Norte,Pará,246,13
+4/12/2020,Norte,Rondônia,35,2
+4/12/2020,Norte,Roraima,79,3
+4/12/2020,Norte,Tocantins,25,0
+4/12/2020,Sudeste,Espírito Santo,383,9
+4/12/2020,Sudeste,Minas Gerais,806,20
+4/12/2020,Sudeste,Rio de Janeiro,2855,170
+4/12/2020,Sudeste,São Paulo,8755,588
+4/12/2020,Sul,Paraná,738,30
+4/12/2020,Sul,Rio Grande do Sul,653,16
+4/12/2020,Sul,Santa Catarina,768,24
+4/13/2020,Centro-Oeste,Distrito Federal,638,15
+4/13/2020,Centro-Oeste,Goiás,233,15
+4/13/2020,Centro-Oeste,Mato Grosso,134,4
+4/13/2020,Centro-Oeste,Mato Grosso do Sul,113,4
+4/13/2020,Nordeste,Alagoas,50,3
+4/13/2020,Nordeste,Bahia,723,22
+4/13/2020,Nordeste,Ceará,1800,91
+4/13/2020,Nordeste,Maranhão,445,27
+4/13/2020,Nordeste,Paraíba,111,13
+4/13/2020,Nordeste,Pernambuco,1154,102
+4/13/2020,Nordeste,Piauí,50,8
+4/13/2020,Nordeste,Rio Grande do Norte,339,17
+4/13/2020,Nordeste,Sergipe,44,4
+4/13/2020,Norte,Acre,90,3
+4/13/2020,Norte,Amapá,242,5
+4/13/2020,Norte,Amazonas,1275,71
+4/13/2020,Norte,Pará,270,15
+4/13/2020,Norte,Rondônia,42,2
+4/13/2020,Norte,Roraima,83,3
+4/13/2020,Norte,Tocantins,26,0
+4/13/2020,Sudeste,Espírito Santo,430,14
+4/13/2020,Sudeste,Minas Gerais,815,23
+4/13/2020,Sudeste,Rio de Janeiro,3231,188
+4/13/2020,Sudeste,São Paulo,8895,608
+4/13/2020,Sul,Paraná,756,31
+4/13/2020,Sul,Rio Grande do Sul,664,16
+4/13/2020,Sul,Santa Catarina,777,24
+4/14/2020,Centro-Oeste,Distrito Federal,651,17
+4/14/2020,Centro-Oeste,Goiás,284,15
+4/14/2020,Centro-Oeste,Mato Grosso,138,4
+4/14/2020,Centro-Oeste,Mato Grosso do Sul,115,4
+4/14/2020,Nordeste,Alagoas,72,4
+4/14/2020,Nordeste,Bahia,759,22
+4/14/2020,Nordeste,Ceará,2005,107
+4/14/2020,Nordeste,Maranhão,478,32
+4/14/2020,Nordeste,Paraíba,136,16
+4/14/2020,Nordeste,Pernambuco,1284,115
+4/14/2020,Nordeste,Piauí,58,8
+4/14/2020,Nordeste,Rio Grande do Norte,376,18
+4/14/2020,Nordeste,Sergipe,45,4
+4/14/2020,Norte,Acre,99,3
+4/14/2020,Norte,Amapá,307,6
+4/14/2020,Norte,Amazonas,1484,90
+4/14/2020,Norte,Pará,323,19
+4/14/2020,Norte,Rondônia,64,2
+4/14/2020,Norte,Roraima,113,3
+4/14/2020,Norte,Tocantins,26,0
+4/14/2020,Sudeste,Espírito Santo,463,17
+4/14/2020,Sudeste,Minas Gerais,884,27
+4/14/2020,Sudeste,Rio de Janeiro,3410,224
+4/14/2020,Sudeste,São Paulo,9371,695
+4/14/2020,Sul,Paraná,791,36
+4/14/2020,Sul,Rio Grande do Sul,700,18
+4/14/2020,Sul,Santa Catarina,826,26
+4/15/2020,Centro-Oeste,Distrito Federal,682,17
+4/15/2020,Centro-Oeste,Goiás,304,15
+4/15/2020,Centro-Oeste,Mato Grosso,151,4
+4/15/2020,Centro-Oeste,Mato Grosso do Sul,121,4
+4/15/2020,Nordeste,Alagoas,82,5
+4/15/2020,Nordeste,Bahia,807,27
+4/15/2020,Nordeste,Ceará,2157,116
+4/15/2020,Nordeste,Maranhão,630,34
+4/15/2020,Nordeste,Paraíba,151,21
+4/15/2020,Nordeste,Pernambuco,1484,143
+4/15/2020,Nordeste,Piauí,75,8
+4/15/2020,Nordeste,Rio Grande do Norte,399,19
+4/15/2020,Nordeste,Sergipe,46,4
+4/15/2020,Norte,Acre,101,3
+4/15/2020,Norte,Amapá,334,7
+4/15/2020,Norte,Amazonas,1554,106
+4/15/2020,Norte,Pará,384,21
+4/15/2020,Norte,Rondônia,69,2
+4/15/2020,Norte,Roraima,114,3
+4/15/2020,Norte,Tocantins,26,1
+4/15/2020,Sudeste,Espírito Santo,557,18
+4/15/2020,Sudeste,Minas Gerais,903,30
+4/15/2020,Sudeste,Rio de Janeiro,3743,265
+4/15/2020,Sudeste,São Paulo,11043,778
+4/15/2020,Sul,Paraná,803,38
+4/15/2020,Sul,Rio Grande do Sul,747,19
+4/15/2020,Sul,Santa Catarina,853,28
+4/16/2020,Centro-Oeste,Distrito Federal,716,20
+4/16/2020,Centro-Oeste,Goiás,318,16
+4/16/2020,Centro-Oeste,Mato Grosso,156,5
+4/16/2020,Centro-Oeste,Mato Grosso do Sul,131,5
+4/16/2020,Nordeste,Alagoas,89,5
+4/16/2020,Nordeste,Bahia,951,30
+4/16/2020,Nordeste,Ceará,2386,124
+4/16/2020,Nordeste,Maranhão,695,37
+4/16/2020,Nordeste,Paraíba,165,24
+4/16/2020,Nordeste,Pernambuco,1683,160
+4/16/2020,Nordeste,Piauí,91,8
+4/16/2020,Nordeste,Rio Grande do Norte,400,20
+4/16/2020,Nordeste,Sergipe,48,4
+4/16/2020,Norte,Acre,110,5
+4/16/2020,Norte,Amapá,362,9
+4/16/2020,Norte,Amazonas,1719,124
+4/16/2020,Norte,Pará,438,24
+4/16/2020,Norte,Rondônia,76,3
+4/16/2020,Norte,Roraima,142,3
+4/16/2020,Norte,Tocantins,29,1
+4/16/2020,Sudeste,Espírito Santo,754,22
+4/16/2020,Sudeste,Minas Gerais,958,33
+4/16/2020,Sudeste,Rio de Janeiro,3944,300
+4/16/2020,Sudeste,São Paulo,11568,853
+4/16/2020,Sul,Paraná,832,41
+4/16/2020,Sul,Rio Grande do Sul,780,19
+4/16/2020,Sul,Santa Catarina,884,29
+4/17/2020,Centro-Oeste,Distrito Federal,746,20
+4/17/2020,Centro-Oeste,Goiás,335,16
+4/17/2020,Centro-Oeste,Mato Grosso,162,5
+4/17/2020,Centro-Oeste,Mato Grosso do Sul,143,5
+4/17/2020,Nordeste,Alagoas,110,7
+4/17/2020,Nordeste,Bahia,1059,36
+4/17/2020,Nordeste,Ceará,2684,149
+4/17/2020,Nordeste,Maranhão,797,40
+4/17/2020,Nordeste,Paraíba,195,26
+4/17/2020,Nordeste,Pernambuco,2006,186
+4/17/2020,Nordeste,Piauí,102,8
+4/17/2020,Nordeste,Rio Grande do Norte,463,23
+4/17/2020,Nordeste,Sergipe,53,4
+4/17/2020,Norte,Acre,135,5
+4/17/2020,Norte,Amapá,370,10
+4/17/2020,Norte,Amazonas,1809,145
+4/17/2020,Norte,Pará,557,26
+4/17/2020,Norte,Rondônia,92,3
+4/17/2020,Norte,Roraima,164,3
+4/17/2020,Norte,Tocantins,31,1
+4/17/2020,Sudeste,Espírito Santo,856,25
+4/17/2020,Sudeste,Minas Gerais,1021,35
+4/17/2020,Sudeste,Rio de Janeiro,4349,341
+4/17/2020,Sudeste,São Paulo,12841,928
+4/17/2020,Sul,Paraná,874,42
+4/17/2020,Sul,Rio Grande do Sul,802,22
+4/17/2020,Sul,Santa Catarina,926,30
+4/18/2020,Centro-Oeste,Distrito Federal,762,24
+4/18/2020,Centro-Oeste,Goiás,378,18
+4/18/2020,Centro-Oeste,Mato Grosso,171,5
+4/18/2020,Centro-Oeste,Mato Grosso do Sul,161,5
+4/18/2020,Nordeste,Alagoas,132,7
+4/18/2020,Nordeste,Bahia,1193,37
+4/18/2020,Nordeste,Ceará,3034,176
+4/18/2020,Nordeste,Maranhão,1040,44
+4/18/2020,Nordeste,Paraíba,205,26
+4/18/2020,Nordeste,Pernambuco,2193,205
+4/18/2020,Nordeste,Piauí,123,9
+4/18/2020,Nordeste,Rio Grande do Norte,516,24
+4/18/2020,Nordeste,Sergipe,71,5
+4/18/2020,Norte,Acre,142,5
+4/18/2020,Norte,Amapá,393,10
+4/18/2020,Norte,Amazonas,1897,161
+4/18/2020,Norte,Pará,640,33
+4/18/2020,Norte,Rondônia,110,3
+4/18/2020,Norte,Roraima,201,3
+4/18/2020,Norte,Tocantins,33,1
+4/18/2020,Sudeste,Espírito Santo,952,28
+4/18/2020,Sudeste,Minas Gerais,1077,39
+4/18/2020,Sudeste,Rio de Janeiro,4543,387
+4/18/2020,Sudeste,São Paulo,13894,991
+4/18/2020,Sul,Paraná,945,46
+4/18/2020,Sul,Rio Grande do Sul,831,24
+4/18/2020,Sul,Santa Catarina,962,31
+4/19/2020,Centro-Oeste,Distrito Federal,827,24
+4/19/2020,Centro-Oeste,Goiás,393,18
+4/19/2020,Centro-Oeste,Mato Grosso,174,5
+4/19/2020,Centro-Oeste,Mato Grosso do Sul,168,5
+4/19/2020,Nordeste,Alagoas,159,15
+4/19/2020,Nordeste,Bahia,1230,45
+4/19/2020,Nordeste,Ceará,3252,186
+4/19/2020,Nordeste,Maranhão,1205,48
+4/19/2020,Nordeste,Paraíba,236,29
+4/19/2020,Nordeste,Pernambuco,2459,216
+4/19/2020,Nordeste,Piauí,145,10
+4/19/2020,Nordeste,Rio Grande do Norte,531,25
+4/19/2020,Nordeste,Sergipe,83,5
+4/19/2020,Norte,Acre,163,6
+4/19/2020,Norte,Amapá,416,11
+4/19/2020,Norte,Amazonas,2044,182
+4/19/2020,Norte,Pará,685,34
+4/19/2020,Norte,Rondônia,128,4
+4/19/2020,Norte,Roraima,222,3
+4/19/2020,Norte,Tocantins,33,1
+4/19/2020,Sudeste,Espírito Santo,1099,30
+4/19/2020,Sudeste,Minas Gerais,1154,39
+4/19/2020,Sudeste,Rio de Janeiro,4765,402
+4/19/2020,Sudeste,São Paulo,14267,1015
+4/19/2020,Sul,Paraná,987,48
+4/19/2020,Sul,Rio Grande do Sul,854,24
+4/19/2020,Sul,Santa Catarina,975,32
+4/20/2020,Centro-Oeste,Distrito Federal,872,24
+4/20/2020,Centro-Oeste,Goiás,403,19
+4/20/2020,Centro-Oeste,Mato Grosso,181,6
+4/20/2020,Centro-Oeste,Mato Grosso do Sul,171,5
+4/20/2020,Nordeste,Alagoas,171,18
+4/20/2020,Nordeste,Bahia,1341,46
+4/20/2020,Nordeste,Ceará,3482,198
+4/20/2020,Nordeste,Maranhão,1320,54
+4/20/2020,Nordeste,Paraíba,245,32
+4/20/2020,Nordeste,Pernambuco,2690,234
+4/20/2020,Nordeste,Piauí,158,12
+4/20/2020,Nordeste,Rio Grande do Norte,595,27
+4/20/2020,Nordeste,Sergipe,86,5
+4/20/2020,Norte,Acre,176,8
+4/20/2020,Norte,Amapá,433,13
+4/20/2020,Norte,Amazonas,2160,185
+4/20/2020,Norte,Pará,902,35
+4/20/2020,Norte,Rondônia,160,4
+4/20/2020,Norte,Roraima,244,3
+4/20/2020,Norte,Tocantins,34,1
+4/20/2020,Sudeste,Espírito Santo,1168,33
+4/20/2020,Sudeste,Minas Gerais,1189,41
+4/20/2020,Sudeste,Rio de Janeiro,4899,422
+4/20/2020,Sudeste,São Paulo,14580,1037
+4/20/2020,Sul,Paraná,1007,51
+4/20/2020,Sul,Rio Grande do Sul,889,27
+4/20/2020,Sul,Santa Catarina,1025,35
+4/21/2020,Centro-Oeste,Distrito Federal,881,24
+4/21/2020,Centro-Oeste,Goiás,421,19
+4/21/2020,Centro-Oeste,Mato Grosso,181,6
+4/21/2020,Centro-Oeste,Mato Grosso do Sul,173,6
+4/21/2020,Nordeste,Alagoas,210,19
+4/21/2020,Nordeste,Bahia,1489,47
+4/21/2020,Nordeste,Ceará,3716,215
+4/21/2020,Nordeste,Maranhão,1396,60
+4/21/2020,Nordeste,Paraíba,263,33
+4/21/2020,Nordeste,Pernambuco,2908,260
+4/21/2020,Nordeste,Piauí,186,14
+4/21/2020,Nordeste,Rio Grande do Norte,608,28
+4/21/2020,Nordeste,Sergipe,92,5
+4/21/2020,Norte,Acre,195,8
+4/21/2020,Norte,Amapá,457,13
+4/21/2020,Norte,Amazonas,2270,193
+4/21/2020,Norte,Pará,1026,38
+4/21/2020,Norte,Rondônia,199,4
+4/21/2020,Norte,Roraima,247,3
+4/21/2020,Norte,Tocantins,37,1
+4/21/2020,Sudeste,Espírito Santo,1212,34
+4/21/2020,Sudeste,Minas Gerais,1230,44
+4/21/2020,Sudeste,Rio de Janeiro,5306,461
+4/21/2020,Sudeste,São Paulo,15385,1093
+4/21/2020,Sul,Paraná,1024,51
+4/21/2020,Sul,Rio Grande do Sul,904,27
+4/21/2020,Sul,Santa Catarina,1063,35
+4/22/2020,Centro-Oeste,Distrito Federal,946,25
+4/22/2020,Centro-Oeste,Goiás,438,21
+4/22/2020,Centro-Oeste,Mato Grosso,183,6
+4/22/2020,Centro-Oeste,Mato Grosso do Sul,175,6
+4/22/2020,Nordeste,Alagoas,243,20
+4/22/2020,Nordeste,Bahia,1644,50
+4/22/2020,Nordeste,Ceará,3910,233
+4/22/2020,Nordeste,Maranhão,1604,66
+4/22/2020,Nordeste,Paraíba,301,39
+4/22/2020,Nordeste,Pernambuco,3298,282
+4/22/2020,Nordeste,Piauí,206,15
+4/22/2020,Nordeste,Rio Grande do Norte,646,29
+4/22/2020,Nordeste,Sergipe,117,7
+4/22/2020,Norte,Acre,214,8
+4/22/2020,Norte,Amapá,479,14
+4/22/2020,Norte,Amazonas,2479,207
+4/22/2020,Norte,Pará,1195,43
+4/22/2020,Norte,Rondônia,223,5
+4/22/2020,Norte,Roraima,280,3
+4/22/2020,Norte,Tocantins,37,1
+4/22/2020,Sudeste,Espírito Santo,1313,34
+4/22/2020,Sudeste,Minas Gerais,1283,47
+4/22/2020,Sudeste,Rio de Janeiro,5552,490
+4/22/2020,Sudeste,São Paulo,15914,1134
+4/22/2020,Sul,Paraná,1063,57
+4/22/2020,Sul,Rio Grande do Sul,923,27
+4/22/2020,Sul,Santa Catarina,1091,37
+4/23/2020,Centro-Oeste,Distrito Federal,963,25
+4/23/2020,Centro-Oeste,Goiás,453,23
+4/23/2020,Centro-Oeste,Mato Grosso,221,7
+4/23/2020,Centro-Oeste,Mato Grosso do Sul,186,7
+4/23/2020,Nordeste,Alagoas,324,22
+4/23/2020,Nordeste,Bahia,1789,59
+4/23/2020,Nordeste,Ceará,4598,266
+4/23/2020,Nordeste,Maranhão,1757,76
+4/23/2020,Nordeste,Paraíba,345,40
+4/23/2020,Nordeste,Pernambuco,3519,312
+4/23/2020,Nordeste,Piauí,217,15
+4/23/2020,Nordeste,Rio Grande do Norte,708,34
+4/23/2020,Nordeste,Sergipe,124,8
+4/23/2020,Norte,Acre,227,10
+4/23/2020,Norte,Amapá,548,16
+4/23/2020,Norte,Amazonas,2888,234
+4/23/2020,Norte,Pará,1267,53
+4/23/2020,Norte,Rondônia,250,5
+4/23/2020,Norte,Roraima,297,3
+4/23/2020,Norte,Tocantins,37,2
+4/23/2020,Sudeste,Espírito Santo,1363,42
+4/23/2020,Sudeste,Minas Gerais,1308,51
+4/23/2020,Sudeste,Rio de Janeiro,6172,530
+4/23/2020,Sudeste,São Paulo,16740,1345
+4/23/2020,Sul,Paraná,1082,60
+4/23/2020,Sul,Rio Grande do Sul,994,29
+4/23/2020,Sul,Santa Catarina,1115,39
+4/24/2020,Centro-Oeste,Distrito Federal,989,26
+4/24/2020,Centro-Oeste,Goiás,486,24
+4/24/2020,Centro-Oeste,Mato Grosso,240,8
+4/24/2020,Centro-Oeste,Mato Grosso do Sul,213,7
+4/24/2020,Nordeste,Alagoas,413,27
+4/24/2020,Nordeste,Bahia,1962,64
+4/24/2020,Nordeste,Ceará,4800,284
+4/24/2020,Nordeste,Maranhão,1951,88
+4/24/2020,Nordeste,Paraíba,386,44
+4/24/2020,Nordeste,Pernambuco,3999,352
+4/24/2020,Nordeste,Piauí,256,16
+4/24/2020,Nordeste,Rio Grande do Norte,754,38
+4/24/2020,Nordeste,Sergipe,144,8
+4/24/2020,Norte,Acre,234,11
+4/24/2020,Norte,Amapá,633,18
+4/24/2020,Norte,Amazonas,3194,255
+4/24/2020,Norte,Pará,1446,75
+4/24/2020,Norte,Rondônia,290,5
+4/24/2020,Norte,Roraima,304,3
+4/24/2020,Norte,Tocantins,43,2
+4/24/2020,Sudeste,Espírito Santo,1381,42
+4/24/2020,Sudeste,Minas Gerais,1419,54
+4/24/2020,Sudeste,Rio de Janeiro,6282,570
+4/24/2020,Sudeste,São Paulo,17826,1512
+4/24/2020,Sul,Paraná,1119,64
+4/24/2020,Sul,Rio Grande do Sul,1061,31
+4/24/2020,Sul,Santa Catarina,1170,42
+4/25/2020,Centro-Oeste,Distrito Federal,1013,26
+4/25/2020,Centro-Oeste,Goiás,506,25
+4/25/2020,Centro-Oeste,Mato Grosso,247,9
+4/25/2020,Centro-Oeste,Mato Grosso do Sul,217,7
+4/25/2020,Nordeste,Alagoas,501,29
+4/25/2020,Nordeste,Bahia,2081,70
+4/25/2020,Nordeste,Ceará,5421,310
+4/25/2020,Nordeste,Maranhão,2105,100
+4/25/2020,Nordeste,Paraíba,447,46
+4/25/2020,Nordeste,Pernambuco,4507,381
+4/25/2020,Nordeste,Piauí,297,17
+4/25/2020,Nordeste,Rio Grande do Norte,781,40
+4/25/2020,Nordeste,Sergipe,153,9
+4/25/2020,Norte,Acre,258,11
+4/25/2020,Norte,Amapá,685,19
+4/25/2020,Norte,Amazonas,3635,287
+4/25/2020,Norte,Pará,1579,86
+4/25/2020,Norte,Rondônia,328,7
+4/25/2020,Norte,Roraima,345,3
+4/25/2020,Norte,Tocantins,50,2
+4/25/2020,Sudeste,Espírito Santo,1595,47
+4/25/2020,Sudeste,Minas Gerais,1481,58
+4/25/2020,Sudeste,Rio de Janeiro,6828,615
+4/25/2020,Sudeste,São Paulo,20004,1667
+4/25/2020,Sul,Paraná,1140,69
+4/25/2020,Sul,Rio Grande do Sul,1096,34
+4/25/2020,Sul,Santa Catarina,1209,42
+4/26/2020,Centro-Oeste,Distrito Federal,1066,27
+4/26/2020,Centro-Oeste,Goiás,573,25
+4/26/2020,Centro-Oeste,Mato Grosso,250,9
+4/26/2020,Centro-Oeste,Mato Grosso do Sul,234,7
+4/26/2020,Nordeste,Alagoas,554,32
+4/26/2020,Nordeste,Bahia,2209,73
+4/26/2020,Nordeste,Ceará,5833,327
+4/26/2020,Nordeste,Maranhão,2223,112
+4/26/2020,Nordeste,Paraíba,499,49
+4/26/2020,Nordeste,Pernambuco,4898,415
+4/26/2020,Nordeste,Piauí,331,18
+4/26/2020,Nordeste,Rio Grande do Norte,825,44
+4/26/2020,Nordeste,Sergipe,159,9
+4/26/2020,Norte,Acre,279,11
+4/26/2020,Norte,Amapá,798,21
+4/26/2020,Norte,Amazonas,3833,304
+4/26/2020,Norte,Pará,1867,100
+4/26/2020,Norte,Rondônia,364,10
+4/26/2020,Norte,Roraima,401,4
+4/26/2020,Norte,Tocantins,58,2
+4/26/2020,Sudeste,Espírito Santo,1703,51
+4/26/2020,Sudeste,Minas Gerais,1548,61
+4/26/2020,Sudeste,Rio de Janeiro,7111,645
+4/26/2020,Sudeste,São Paulo,20715,1700
+4/26/2020,Sul,Paraná,1156,72
+4/26/2020,Sul,Rio Grande do Sul,1166,35
+4/26/2020,Sul,Santa Catarina,1235,42
+4/27/2020,Centro-Oeste,Distrito Federal,1146,27
+4/27/2020,Centro-Oeste,Goiás,616,26
+4/27/2020,Centro-Oeste,Mato Grosso,257,10
+4/27/2020,Centro-Oeste,Mato Grosso do Sul,238,9
+4/27/2020,Nordeste,Alagoas,643,34
+4/27/2020,Nordeste,Bahia,2354,76
+4/27/2020,Nordeste,Ceará,6726,390
+4/27/2020,Nordeste,Maranhão,2410,125
+4/27/2020,Nordeste,Paraíba,543,50
+4/27/2020,Nordeste,Pernambuco,5358,450
+4/27/2020,Nordeste,Piauí,364,20
+4/27/2020,Nordeste,Rio Grande do Norte,832,45
+4/27/2020,Nordeste,Sergipe,197,10
+4/27/2020,Norte,Acre,279,14
+4/27/2020,Norte,Amapá,842,26
+4/27/2020,Norte,Amazonas,3928,320
+4/27/2020,Norte,Pará,2128,114
+4/27/2020,Norte,Rondônia,393,10
+4/27/2020,Norte,Roraima,407,4
+4/27/2020,Norte,Tocantins,67,2
+4/27/2020,Sudeste,Espírito Santo,1796,57
+4/27/2020,Sudeste,Minas Gerais,1586,62
+4/27/2020,Sudeste,Rio de Janeiro,7944,677
+4/27/2020,Sudeste,São Paulo,21696,1825
+4/27/2020,Sul,Paraná,1186,75
+4/27/2020,Sul,Rio Grande do Sul,1228,42
+4/27/2020,Sul,Santa Catarina,1337,43
+4/28/2020,Centro-Oeste,Distrito Federal,1213,28
+4/28/2020,Centro-Oeste,Goiás,661,27
+4/28/2020,Centro-Oeste,Mato Grosso,261,11
+4/28/2020,Centro-Oeste,Mato Grosso do Sul,240,9
+4/28/2020,Nordeste,Alagoas,777,36
+4/28/2020,Nordeste,Bahia,2540,86
+4/28/2020,Nordeste,Ceará,6918,403
+4/28/2020,Nordeste,Maranhão,2528,145
+4/28/2020,Nordeste,Paraíba,633,53
+4/28/2020,Nordeste,Pernambuco,5724,508
+4/28/2020,Nordeste,Piauí,408,21
+4/28/2020,Nordeste,Rio Grande do Norte,857,48
+4/28/2020,Nordeste,Sergipe,280,11
+4/28/2020,Norte,Acre,311,16
+4/28/2020,Norte,Amapá,918,28
+4/28/2020,Norte,Amazonas,4337,351
+4/28/2020,Norte,Pará,2262,129
+4/28/2020,Norte,Rondônia,413,11
+4/28/2020,Norte,Roraima,425,6
+4/28/2020,Norte,Tocantins,79,2
+4/28/2020,Sudeste,Espírito Santo,1874,64
+4/28/2020,Sudeste,Minas Gerais,1649,71
+4/28/2020,Sudeste,Rio de Janeiro,8504,738
+4/28/2020,Sudeste,São Paulo,24041,2049
+4/28/2020,Sul,Paraná,1271,77
+4/28/2020,Sul,Rio Grande do Sul,1286,45
+4/28/2020,Sul,Santa Catarina,1476,44
+4/29/2020,Centro-Oeste,Distrito Federal,1275,28
+4/29/2020,Centro-Oeste,Goiás,705,27
+4/29/2020,Centro-Oeste,Mato Grosso,292,11
+4/29/2020,Centro-Oeste,Mato Grosso do Sul,249,9
+4/29/2020,Nordeste,Alagoas,957,41
+4/29/2020,Nordeste,Bahia,2646,96
+4/29/2020,Nordeste,Ceará,7267,441
+4/29/2020,Nordeste,Maranhão,2804,166
+4/29/2020,Nordeste,Paraíba,699,58
+4/29/2020,Nordeste,Pernambuco,6194,538
+4/29/2020,Nordeste,Piauí,454,24
+4/29/2020,Nordeste,Rio Grande do Norte,1086,53
+4/29/2020,Nordeste,Sergipe,337,12
+4/29/2020,Norte,Acre,354,17
+4/29/2020,Norte,Amapá,1016,31
+4/29/2020,Norte,Amazonas,4801,380
+4/29/2020,Norte,Pará,2422,137
+4/29/2020,Norte,Rondônia,433,15
+4/29/2020,Norte,Roraima,452,6
+4/29/2020,Norte,Tocantins,116,3
+4/29/2020,Sudeste,Espírito Santo,2107,76
+4/29/2020,Sudeste,Minas Gerais,1758,80
+4/29/2020,Sudeste,Rio de Janeiro,8869,794
+4/29/2020,Sudeste,São Paulo,26158,2247
+4/29/2020,Sul,Paraná,1348,82
+4/29/2020,Sul,Rio Grande do Sul,1368,50
+4/29/2020,Sul,Santa Catarina,1995,44
+4/30/2020,Centro-Oeste,Distrito Federal,1356,30
+4/30/2020,Centro-Oeste,Goiás,781,29
+4/30/2020,Centro-Oeste,Mato Grosso,297,11
+4/30/2020,Centro-Oeste,Mato Grosso do Sul,255,9
+4/30/2020,Nordeste,Alagoas,1044,47
+4/30/2020,Nordeste,Bahia,2851,104
+4/30/2020,Nordeste,Ceará,7606,482
+4/30/2020,Nordeste,Maranhão,3190,184
+4/30/2020,Nordeste,Paraíba,814,62
+4/30/2020,Nordeste,Pernambuco,6876,565
+4/30/2020,Nordeste,Piauí,513,24
+4/30/2020,Nordeste,Rio Grande do Norte,1177,56
+4/30/2020,Nordeste,Sergipe,447,12
+4/30/2020,Norte,Acre,404,19
+4/30/2020,Norte,Amapá,1080,34
+4/30/2020,Norte,Amazonas,5254,425
+4/30/2020,Norte,Pará,2876,208
+4/30/2020,Norte,Rondônia,502,16
+4/30/2020,Norte,Roraima,519,7
+4/30/2020,Norte,Tocantins,137,3
+4/30/2020,Sudeste,Espírito Santo,2465,83
+4/30/2020,Sudeste,Minas Gerais,1827,82
+4/30/2020,Sudeste,Rio de Janeiro,9453,854
+4/30/2020,Sudeste,São Paulo,28698,2375
+4/30/2020,Sul,Paraná,1407,83
+4/30/2020,Sul,Rio Grande do Sul,1466,51
+4/30/2020,Sul,Santa Catarina,2085,46
+5/1/2020,Centro-Oeste,Distrito Federal,1466,30
+5/1/2020,Centro-Oeste,Goiás,808,29
+5/1/2020,Centro-Oeste,Mato Grosso,320,11
+5/1/2020,Centro-Oeste,Mato Grosso do Sul,261,9
+5/1/2020,Nordeste,Alagoas,1226,53
+5/1/2020,Nordeste,Bahia,3085,117
+5/1/2020,Nordeste,Ceará,7879,505
+5/1/2020,Nordeste,Maranhão,3506,204
+5/1/2020,Nordeste,Paraíba,926,67
+5/1/2020,Nordeste,Pernambuco,7334,603
+5/1/2020,Nordeste,Piauí,600,24
+5/1/2020,Nordeste,Rio Grande do Norte,1297,56
+5/1/2020,Nordeste,Sergipe,517,14
+5/1/2020,Norte,Acre,486,19
+5/1/2020,Norte,Amapá,1121,37
+5/1/2020,Norte,Amazonas,5723,476
+5/1/2020,Norte,Pará,3176,235
+5/1/2020,Norte,Rondônia,585,18
+5/1/2020,Norte,Roraima,602,8
+5/1/2020,Norte,Tocantins,164,3
+5/1/2020,Sudeste,Espírito Santo,2662,96
+5/1/2020,Sudeste,Minas Gerais,1935,88
+5/1/2020,Sudeste,Rio de Janeiro,10166,921
+5/1/2020,Sudeste,São Paulo,30374,2511
+5/1/2020,Sul,Paraná,1447,89
+5/1/2020,Sul,Rio Grande do Sul,1529,58
+5/1/2020,Sul,Santa Catarina,2104,48
+5/2/2020,Centro-Oeste,Distrito Federal,1566,31
+5/2/2020,Centro-Oeste,Goiás,825,30
+5/2/2020,Centro-Oeste,Mato Grosso,331,12
+5/2/2020,Centro-Oeste,Mato Grosso do Sul,266,9
+5/2/2020,Nordeste,Alagoas,1372,58
+5/2/2020,Nordeste,Bahia,3267,123
+5/2/2020,Nordeste,Ceará,8231,614
+5/2/2020,Nordeste,Maranhão,3805,224
+5/2/2020,Nordeste,Paraíba,1034,74
+5/2/2020,Nordeste,Pernambuco,8145,628
+5/2/2020,Nordeste,Piauí,665,26
+5/2/2020,Nordeste,Rio Grande do Norte,1366,59
+5/2/2020,Nordeste,Sergipe,601,14
+5/2/2020,Norte,Acre,553,21
+5/2/2020,Norte,Amapá,1187,40
+5/2/2020,Norte,Amazonas,6062,501
+5/2/2020,Norte,Pará,3460,273
+5/2/2020,Norte,Rondônia,653,23
+5/2/2020,Norte,Roraima,668,9
+5/2/2020,Norte,Tocantins,191,4
+5/2/2020,Sudeste,Espírito Santo,2948,102
+5/2/2020,Sudeste,Minas Gerais,2023,88
+5/2/2020,Sudeste,Rio de Janeiro,10546,971
+5/2/2020,Sudeste,São Paulo,31174,2586
+5/2/2020,Sul,Paraná,1492,90
+5/2/2020,Sul,Rio Grande do Sul,1619,62
+5/2/2020,Sul,Santa Catarina,2346,52
+5/3/2020,Centro-Oeste,Distrito Federal,1649,33
+5/3/2020,Centro-Oeste,Goiás,850,30
+5/3/2020,Centro-Oeste,Mato Grosso,337,12
+5/3/2020,Centro-Oeste,Mato Grosso do Sul,272,10
+5/3/2020,Nordeste,Alagoas,1441,64
+5/3/2020,Nordeste,Bahia,3495,123
+5/3/2020,Nordeste,Ceará,8370,663
+5/3/2020,Nordeste,Maranhão,4040,237
+5/3/2020,Nordeste,Paraíba,1169,76
+5/3/2020,Nordeste,Pernambuco,8643,652
+5/3/2020,Nordeste,Piauí,742,28
+5/3/2020,Nordeste,Rio Grande do Norte,1392,61
+5/3/2020,Nordeste,Sergipe,730,14
+5/3/2020,Norte,Acre,657,24
+5/3/2020,Norte,Amapá,1482,43
+5/3/2020,Norte,Amazonas,6683,548
+5/3/2020,Norte,Pará,3863,309
+5/3/2020,Norte,Rondônia,705,24
+5/3/2020,Norte,Roraima,740,11
+5/3/2020,Norte,Tocantins,246,4
+5/3/2020,Sudeste,Espírito Santo,3086,114
+5/3/2020,Sudeste,Minas Gerais,2118,89
+5/3/2020,Sudeste,Rio de Janeiro,11139,1019
+5/3/2020,Sudeste,São Paulo,31772,2627
+5/3/2020,Sul,Paraná,1514,93
+5/3/2020,Sul,Rio Grande do Sul,1666,65
+5/3/2020,Sul,Santa Catarina,2346,52
+5/4/2020,Centro-Oeste,Distrito Federal,1768,33
+5/4/2020,Centro-Oeste,Goiás,861,30
+5/4/2020,Centro-Oeste,Mato Grosso,344,13
+5/4/2020,Centro-Oeste,Mato Grosso do Sul,274,10
+5/4/2020,Nordeste,Alagoas,1538,72
+5/4/2020,Nordeste,Bahia,3734,141
+5/4/2020,Nordeste,Ceará,11040,712
+5/4/2020,Nordeste,Maranhão,4227,249
+5/4/2020,Nordeste,Paraíba,1219,79
+5/4/2020,Nordeste,Pernambuco,8863,691
+5/4/2020,Nordeste,Piauí,784,28
+5/4/2020,Nordeste,Rio Grande do Norte,1421,62
+5/4/2020,Nordeste,Sergipe,772,17
+5/4/2020,Norte,Acre,733,28
+5/4/2020,Norte,Amapá,1733,49
+5/4/2020,Norte,Amazonas,7242,584
+5/4/2020,Norte,Pará,4125,330
+5/4/2020,Norte,Rondônia,756,25
+5/4/2020,Norte,Roraima,806,11
+5/4/2020,Norte,Tocantins,267,6
+5/4/2020,Sudeste,Espírito Santo,3226,122
+5/4/2020,Sudeste,Minas Gerais,2347,90
+5/4/2020,Sudeste,Rio de Janeiro,11721,1065
+5/4/2020,Sudeste,São Paulo,32187,2654
+5/4/2020,Sul,Paraná,1562,94
+5/4/2020,Sul,Rio Grande do Sul,1711,74
+5/4/2020,Sul,Santa Catarina,2519,52
+5/5/2020,Centro-Oeste,Distrito Federal,1818,33
+5/5/2020,Centro-Oeste,Goiás,922,38
+5/5/2020,Centro-Oeste,Mato Grosso,365,13
+5/5/2020,Centro-Oeste,Mato Grosso do Sul,283,10
+5/5/2020,Nordeste,Alagoas,1606,80
+5/5/2020,Nordeste,Bahia,4040,146
+5/5/2020,Nordeste,Ceará,11470,795
+5/5/2020,Nordeste,Maranhão,4530,271
+5/5/2020,Nordeste,Paraíba,1361,85
+5/5/2020,Nordeste,Pernambuco,9325,749
+5/5/2020,Nordeste,Piauí,875,29
+5/5/2020,Nordeste,Rio Grande do Norte,1536,68
+5/5/2020,Nordeste,Sergipe,898,21
+5/5/2020,Norte,Acre,817,29
+5/5/2020,Norte,Amapá,1931,55
+5/5/2020,Norte,Amazonas,8109,649
+5/5/2020,Norte,Pará,4472,369
+5/5/2020,Norte,Rondônia,861,29
+5/5/2020,Norte,Roraima,869,11
+5/5/2020,Norte,Tocantins,303,7
+5/5/2020,Sudeste,Espírito Santo,3402,133
+5/5/2020,Sudeste,Minas Gerais,2452,94
+5/5/2020,Sudeste,Rio de Janeiro,12391,1123
+5/5/2020,Sudeste,São Paulo,34053,2851
+5/5/2020,Sul,Paraná,1588,99
+5/5/2020,Sul,Rio Grande do Sul,1815,79
+5/5/2020,Sul,Santa Catarina,2623,55
+5/6/2020,Centro-Oeste,Distrito Federal,1906,34
+5/6/2020,Centro-Oeste,Goiás,1024,45
+5/6/2020,Centro-Oeste,Mato Grosso,379,13
+5/6/2020,Centro-Oeste,Mato Grosso do Sul,288,10
+5/6/2020,Nordeste,Alagoas,1703,89
+5/6/2020,Nordeste,Bahia,4301,160
+5/6/2020,Nordeste,Ceará,12304,848
+5/6/2020,Nordeste,Maranhão,5028,291
+5/6/2020,Nordeste,Paraíba,1493,92
+5/6/2020,Nordeste,Pernambuco,9881,803
+5/6/2020,Nordeste,Piauí,949,30
+5/6/2020,Nordeste,Rio Grande do Norte,1574,72
+5/6/2020,Nordeste,Sergipe,998,23
+5/6/2020,Norte,Acre,943,33
+5/6/2020,Norte,Amapá,2046,56
+5/6/2020,Norte,Amazonas,9243,751
+5/6/2020,Norte,Pará,5017,392
+5/6/2020,Norte,Rondônia,943,33
+5/6/2020,Norte,Roraima,932,13
+5/6/2020,Norte,Tocantins,351,9
+5/6/2020,Sudeste,Espírito Santo,3568,145
+5/6/2020,Sudeste,Minas Gerais,2605,97
+5/6/2020,Sudeste,Rio de Janeiro,13295,1205
+5/6/2020,Sudeste,São Paulo,37853,3045
+5/6/2020,Sul,Paraná,1627,101
+5/6/2020,Sul,Rio Grande do Sul,2050,87
+5/6/2020,Sul,Santa Catarina,2917,59
+5/7/2020,Centro-Oeste,Distrito Federal,2258,35
+5/7/2020,Centro-Oeste,Goiás,1027,44
+5/7/2020,Centro-Oeste,Mato Grosso,417,13
+5/7/2020,Centro-Oeste,Mato Grosso do Sul,311,10
+5/7/2020,Nordeste,Alagoas,1867,98
+5/7/2020,Nordeste,Bahia,4528,165
+5/7/2020,Nordeste,Ceará,13888,903
+5/7/2020,Nordeste,Maranhão,5389,305
+5/7/2020,Nordeste,Paraíba,1657,101
+5/7/2020,Nordeste,Pernambuco,10824,845
+5/7/2020,Nordeste,Piauí,1051,35
+5/7/2020,Nordeste,Rio Grande do Norte,1739,76
+5/7/2020,Nordeste,Sergipe,1214,25
+5/7/2020,Norte,Acre,1014,36
+5/7/2020,Norte,Amapá,2199,61
+5/7/2020,Norte,Amazonas,10099,806
+5/7/2020,Norte,Pará,5524,410
+5/7/2020,Norte,Rondônia,1098,37
+5/7/2020,Norte,Roraima,1020,14
+5/7/2020,Norte,Tocantins,423,9
+5/7/2020,Sudeste,Espírito Santo,3838,155
+5/7/2020,Sudeste,Minas Gerais,2770,106
+5/7/2020,Sudeste,Rio de Janeiro,14156,1394
+5/7/2020,Sudeste,São Paulo,39928,3206
+5/7/2020,Sul,Paraná,1656,104
+5/7/2020,Sul,Rio Grande do Sul,2129,90
+5/7/2020,Sul,Santa Catarina,3082,63
+5/8/2020,Centro-Oeste,Distrito Federal,2442,37
+5/8/2020,Centro-Oeste,Goiás,1053,49
+5/8/2020,Centro-Oeste,Mato Grosso,457,14
+5/8/2020,Centro-Oeste,Mato Grosso do Sul,326,11
+5/8/2020,Nordeste,Alagoas,2033,108
+5/8/2020,Nordeste,Bahia,4818,183
+5/8/2020,Nordeste,Ceará,14956,966
+5/8/2020,Nordeste,Maranhão,5909,330
+5/8/2020,Nordeste,Paraíba,2031,114
+5/8/2020,Nordeste,Pernambuco,11587,927
+5/8/2020,Nordeste,Piauí,1131,37
+5/8/2020,Nordeste,Rio Grande do Norte,1821,81
+5/8/2020,Nordeste,Sergipe,1438,28
+5/8/2020,Norte,Acre,1177,38
+5/8/2020,Norte,Amapá,2322,66
+5/8/2020,Norte,Amazonas,10727,874
+5/8/2020,Norte,Pará,6141,515
+5/8/2020,Norte,Rondônia,1222,39
+5/8/2020,Norte,Roraima,1124,16
+5/8/2020,Norte,Tocantins,494,9
+5/8/2020,Sudeste,Espírito Santo,4242,165
+5/8/2020,Sudeste,Minas Gerais,2943,111
+5/8/2020,Sudeste,Rio de Janeiro,15741,1503
+5/8/2020,Sudeste,São Paulo,41830,3416
+5/8/2020,Sul,Paraná,1711,106
+5/8/2020,Sul,Rio Grande do Sul,2447,91
+5/8/2020,Sul,Santa Catarina,3205,63
+5/9/2020,Centro-Oeste,Distrito Federal,2576,39
+5/9/2020,Centro-Oeste,Goiás,1069,47
+5/9/2020,Centro-Oeste,Mato Grosso,502,16
+5/9/2020,Centro-Oeste,Mato Grosso do Sul,346,11
+5/9/2020,Nordeste,Alagoas,2172,114
+5/9/2020,Nordeste,Bahia,5174,196
+5/9/2020,Nordeste,Ceará,15879,1062
+5/9/2020,Nordeste,Maranhão,6765,355
+5/9/2020,Nordeste,Paraíba,2156,124
+5/9/2020,Nordeste,Pernambuco,12470,972
+5/9/2020,Nordeste,Piauí,1233,38
+5/9/2020,Nordeste,Rio Grande do Norte,1919,87
+5/9/2020,Nordeste,Sergipe,1588,33
+5/9/2020,Norte,Acre,1335,39
+5/9/2020,Norte,Amapá,2493,69
+5/9/2020,Norte,Amazonas,11925,962
+5/9/2020,Norte,Pará,6775,578
+5/9/2020,Norte,Rondônia,1263,41
+5/9/2020,Norte,Roraima,1202,18
+5/9/2020,Norte,Tocantins,572,9
+5/9/2020,Sudeste,Espírito Santo,4412,172
+5/9/2020,Sudeste,Minas Gerais,3123,118
+5/9/2020,Sudeste,Rio de Janeiro,16929,1653
+5/9/2020,Sudeste,São Paulo,44411,3608
+5/9/2020,Sul,Paraná,1785,107
+5/9/2020,Sul,Rio Grande do Sul,2493,95
+5/9/2020,Sul,Santa Catarina,3372,64
+5/10/2020,Centro-Oeste,Distrito Federal,2682,42
+5/10/2020,Centro-Oeste,Goiás,1093,47
+5/10/2020,Centro-Oeste,Mato Grosso,519,18
+5/10/2020,Centro-Oeste,Mato Grosso do Sul,362,11
+5/10/2020,Nordeste,Alagoas,2258,126
+5/10/2020,Nordeste,Bahia,5558,202
+5/10/2020,Nordeste,Ceará,16692,1114
+5/10/2020,Nordeste,Maranhão,7599,379
+5/10/2020,Nordeste,Paraíba,2341,135
+5/10/2020,Nordeste,Pernambuco,13275,1047
+5/10/2020,Nordeste,Piauí,1278,42
+5/10/2020,Nordeste,Rio Grande do Norte,1928,88
+5/10/2020,Nordeste,Sergipe,1771,34
+5/10/2020,Norte,Acre,1447,41
+5/10/2020,Norte,Amapá,2613,72
+5/10/2020,Norte,Amazonas,12599,1004
+5/10/2020,Norte,Pará,7256,652
+5/10/2020,Norte,Rondônia,1302,43
+5/10/2020,Norte,Roraima,1290,21
+5/10/2020,Norte,Tocantins,688,11
+5/10/2020,Sudeste,Espírito Santo,4599,181
+5/10/2020,Sudeste,Minas Gerais,3237,119
+5/10/2020,Sudeste,Rio de Janeiro,17062,1714
+5/10/2020,Sudeste,São Paulo,45444,3709
+5/10/2020,Sul,Paraná,1835,109
+5/10/2020,Sul,Rio Grande do Sul,2542,97
+5/10/2020,Sul,Santa Catarina,3429,65

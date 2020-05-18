@@ -9,6 +9,8 @@ Original file is located at
 
 #AULA 1
 
+# *banco de dados retirado do kaggle* #
+
 import pandas as pd
 import seaborn as sns
 

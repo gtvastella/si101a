@@ -47,7 +47,7 @@ from google.colab import files
 n.loc[n.date=="5/10/2020"].loc[:,['cases', 'deaths','region']].to_csv('teste.csv')
 files.download('teste.csv')
 #aqui é filtrado o banco de dados e criado um novo a partir desse, guardando apenas as colunas
-#deaths e region (mortes e região) do dia 10/05/2020. Em seguida p arquivo é salvo e baixado para o computador que
+#deaths, cases e region (mortes e região) do dia 10/05/2020. Em seguida p arquivo é salvo e baixado para o computador que
 #executou o código
 
 # Commented out IPython magic to ensure Python compatibility.
@@ -55,10 +55,9 @@ files.download('teste.csv')
 import matplotlib.pyplot as plt
 tt = pd.read_csv("teste.csv")
 tm= tt.groupby(['region']).sum()
-tm.reset_index()
 tm.head()
-#aqui é montado, a partir do método groupby, um novo dataset que soma a morte por regiões com o banco de dados criado anteriormente. Assim, é possível obter o número total de mortes, ainda
-#no dia 10/05/2020, porém por região e não por estado.
+#aqui é montado, a partir do método groupby, um novo dataset que soma a mortes e casos por regiões com o banco de dados criado anteriormente. 
+#Assim, é possível obter o número total de mortes e casos, ainda no dia 10/05/2020, porém por região e não por estado.
 
 tm.deaths.plot.pie()
 
@@ -74,10 +73,12 @@ sns.factorplot(x="cases", y="deaths", kind="bar", data=tm)
 
 #AULA 3
 
-lista = n.loc[n.region == "Sudeste"]
+n2 = pd.read_csv("brazil_covid19novo.csv")
+
+lista = n2.loc[n2.region == "Sudeste"]
 lista.head(12)
 
-#aqui mostramos uma lista com os casos de todos os estados da região sudeste nos 3 primeiros dias de abril. note que, como a região é constituída por 3 estados
+#aqui mostramos uma lista com os casos de todos os estados da região sudeste nos 3 primeiros dias de abril. note que, como a região é constituída por 4estados
 #então, para cada estado seria necessario exibir 4 linhas e totalizando 12 linhas para 3 dias.
 
 X_lista = lista.loc[: ,  ["cases",	"deaths"] ]

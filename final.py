@@ -34,20 +34,17 @@ n.loc[n.date == "5/10/2020"].cases.plot.pie()
 #aqui é exibido um gráfico de barras que mostra o número de casos por estado até a data de 10/05/2020.
 
 n.loc[n.date == "5/10/2020"].deaths>=500
-#aqui é exibido estados que possuiam 500 mortes ou mais por covid-19 no dia 10/05/2020, sinalizados como true.
+#aqui é exibido estados que possuiam 500 mortes ou mais por covid-19 no dia 10/05/2020, sinalizados como true
 
 n.loc[n.date == "4/22/2020"].plot.scatter(x='region', y='cases')
-n.reset_index("state", inplace=True)
+
 #aqui é exibido um gráfico do tipo scatter mostrando os casos totais por região exatamente do dia 22 de abril
 #de 2020.
-
-n.loc[n.state=="Amazonas"].loc[n.date=="4/22/2020"].plot.hist()
-#aqui é exibido um gráfico do tipo histograma mostrando os casos e mortes amazonenses exatamente no dia 22/04/2020.
 
 #AULA 2
 
 from google.colab import files
-n.loc[n.date=="5/10/2020"].loc[:,['deaths','region']].to_csv('teste.csv', index = True)
+n.loc[n.date=="5/10/2020"].loc[:,['cases', 'deaths','region']].to_csv('teste.csv')
 files.download('teste.csv')
 #aqui é filtrado o banco de dados e criado um novo a partir desse, guardando apenas as colunas
 #deaths e region (mortes e região) do dia 10/05/2020. Em seguida p arquivo é salvo e baixado para o computador que
@@ -56,10 +53,24 @@ files.download('teste.csv')
 # Commented out IPython magic to ensure Python compatibility.
 # %matplotlib inline
 import matplotlib.pyplot as plt
+tt = pd.read_csv("teste.csv")
 tm= tt.groupby(['region']).sum()
+tm.reset_index()
 tm.head()
 #aqui é montado, a partir do método groupby, um novo dataset que soma a morte por regiões com o banco de dados criado anteriormente. Assim, é possível obter o número total de mortes, ainda
 #no dia 10/05/2020, porém por região e não por estado.
+
+tm.deaths.plot.pie()
+
+#aqui exibimos um gráfico de pizza, baseado no dataset anterior, exibindo a distribuição de mortes por regiões.
+
+tm.cases.plot.pie()
+
+#aqui exibimos um gráfico de pizza, baseado no dataset anterior, exibindo a distribuição de casos por regiões.
+
+sns.factorplot(x="cases", y="deaths", kind="bar", data=tm)
+
+#aqui mostramos um gráfico factorplot com todas as mortes separadas por região na data de 10/05/2020
 
 #AULA 3
 
@@ -93,7 +104,7 @@ ETC.fit(Xtrain, ytrain)
 y_ETC = ETC.predict(Xtest)
 #utilizamos o método de predição
 
-rom sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score
 
 accuracy_score(ytest, y_ETC)*100
 
